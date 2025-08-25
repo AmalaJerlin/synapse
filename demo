@@ -1,4 +1,3 @@
-print("welcome")
+var="anitha"
+print(var)
 
-
-print(""jerlin")
